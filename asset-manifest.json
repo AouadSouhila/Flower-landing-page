@@ -1,14 +1,9 @@
 {
   "files": {
-    "main.js": "/static/js/main.f3ca8806.js",
+    "main.js": "/static/js/main.572eda9e.js",
     "static/js/787.75a9ea0d.chunk.js": "/static/js/787.75a9ea0d.chunk.js",
-    "static/media/pic8.jpg": "/static/media/pic8.3484eedf1331285ddf68.jpg",
-    "static/media/pic10.jpg": "/static/media/pic10.caf1760974e5dbf63145.jpg",
-    "static/media/pic9.jpg": "/static/media/pic9.786fa534b6ab492f2ec5.jpg",
     "static/media/pic4.jpg": "/static/media/pic4.69e105b82e8120be6316.jpg",
     "static/media/pic3.jpg": "/static/media/pic3.3af33cd023603bbe0c3b.jpg",
-    "static/media/pic11.jpg": "/static/media/pic11.24fb94a5aff50a25c950.jpg",
-    "static/media/pic12.jpg": "/static/media/pic12.2ef49c9ef1167b0acc83.jpg",
     "static/media/pic6.jpg": "/static/media/pic6.fb2711b048deb4b7440a.jpg",
     "static/media/pic5.jpg": "/static/media/pic5.6674c249075542e77a60.jpg",
     "static/media/pic1.jpg": "/static/media/pic1.b6b709a271a65935117e.jpg",
@@ -17,10 +12,10 @@
     "static/media/Gladies.ttf": "/static/media/Gladies.5185b78c8f1345158299.ttf",
     "static/media/ReclineLightDemo-jEnOM.ttf": "/static/media/ReclineLightDemo-jEnOM.1bd49e7103ebfe212f1a.ttf",
     "index.html": "/index.html",
-    "main.f3ca8806.js.map": "/static/js/main.f3ca8806.js.map",
+    "main.572eda9e.js.map": "/static/js/main.572eda9e.js.map",
     "787.75a9ea0d.chunk.js.map": "/static/js/787.75a9ea0d.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.f3ca8806.js"
+    "static/js/main.572eda9e.js"
   ]
 }
