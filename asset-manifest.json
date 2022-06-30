@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.js": "/myPortfolio/static/js/main.04f73742.js",
-    "static/js/787.75a9ea0d.chunk.js": "/myPortfolio/static/js/787.75a9ea0d.chunk.js",
-    "static/media/pic4.jpg": "/myPortfolio/static/media/pic4.69e105b82e8120be6316.jpg",
-    "static/media/pic3.jpg": "/myPortfolio/static/media/pic3.3af33cd023603bbe0c3b.jpg",
-    "static/media/pic6.jpg": "/myPortfolio/static/media/pic6.fb2711b048deb4b7440a.jpg",
-    "static/media/pic5.jpg": "/myPortfolio/static/media/pic5.6674c249075542e77a60.jpg",
-    "static/media/pic1.jpg": "/myPortfolio/static/media/pic1.b6b709a271a65935117e.jpg",
-    "static/media/pic7.jpg": "/myPortfolio/static/media/pic7.1bef8bd515074420dcf8.jpg",
-    "static/media/pic2.jpg": "/myPortfolio/static/media/pic2.404a7725429ce5314707.jpg",
-    "static/media/Gladies.ttf": "/myPortfolio/static/media/Gladies.5185b78c8f1345158299.ttf",
-    "static/media/ReclineLightDemo-jEnOM.ttf": "/myPortfolio/static/media/ReclineLightDemo-jEnOM.1bd49e7103ebfe212f1a.ttf",
-    "index.html": "/myPortfolio/index.html",
-    "main.04f73742.js.map": "/myPortfolio/static/js/main.04f73742.js.map",
-    "787.75a9ea0d.chunk.js.map": "/myPortfolio/static/js/787.75a9ea0d.chunk.js.map"
+    "main.js": "/Flower-landing-page/static/js/main.7295ddb3.js",
+    "static/js/787.75a9ea0d.chunk.js": "/Flower-landing-page/static/js/787.75a9ea0d.chunk.js",
+    "static/media/pic4.jpg": "/Flower-landing-page/static/media/pic4.69e105b82e8120be6316.jpg",
+    "static/media/pic3.jpg": "/Flower-landing-page/static/media/pic3.3af33cd023603bbe0c3b.jpg",
+    "static/media/pic6.jpg": "/Flower-landing-page/static/media/pic6.fb2711b048deb4b7440a.jpg",
+    "static/media/pic5.jpg": "/Flower-landing-page/static/media/pic5.6674c249075542e77a60.jpg",
+    "static/media/pic1.jpg": "/Flower-landing-page/static/media/pic1.b6b709a271a65935117e.jpg",
+    "static/media/pic7.jpg": "/Flower-landing-page/static/media/pic7.1bef8bd515074420dcf8.jpg",
+    "static/media/pic2.jpg": "/Flower-landing-page/static/media/pic2.404a7725429ce5314707.jpg",
+    "static/media/Gladies.ttf": "/Flower-landing-page/static/media/Gladies.5185b78c8f1345158299.ttf",
+    "static/media/ReclineLightDemo-jEnOM.ttf": "/Flower-landing-page/static/media/ReclineLightDemo-jEnOM.1bd49e7103ebfe212f1a.ttf",
+    "index.html": "/Flower-landing-page/index.html",
+    "main.7295ddb3.js.map": "/Flower-landing-page/static/js/main.7295ddb3.js.map",
+    "787.75a9ea0d.chunk.js.map": "/Flower-landing-page/static/js/787.75a9ea0d.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.04f73742.js"
+    "static/js/main.7295ddb3.js"
   ]
 }
